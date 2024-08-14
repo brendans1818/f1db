@@ -1,0 +1,77 @@
+Adelaide Street Circuit,australia
+Okayama International Circuit,japan
+Ain-Diab Circuit,morocco
+Aintree Motor Racing Circuit,united-kingdom
+Anderstorp Raceway,sweden
+Circuit of the Americas,united-states-of-america
+AVUS,germany
+Bahrain International Circuit,bahrain
+Baku City Circuit,azerbaijan
+Brands Hatch,united-kingdom
+Circuit Bremgarten,switzerland
+Buddh International Circuit,india
+Autódromo Juan y Oscar Gálvez,argentina
+Bugatti Circuit,france
+Caesars Palace,united-states-of-america
+Circuit de Barcelona-Catalunya,spain
+Charade Circuit,france
+Fair Park,united-states-of-america
+Detroit Street Circuit,united-states-of-america
+Dijon-Prenois,france
+Donington Park,united-kingdom
+Prince George Circuit,south-africa
+Autódromo do Estoril,portugal
+Fuji Speedway,japan
+Hockenheimring,germany
+Hungaroring,hungary
+Autodromo Internazionale Enzo e Dino Ferrari,italy
+Indianapolis Motor Speedway,united-states-of-america
+Autódromo José Carlos Pace,brazil
+Istanbul Park,turkey
+Autódromo Internacional Nelson Piquet,brazil
+Circuito del Jarama,spain
+Jeddah Corniche Circuit,saudi-arabia
+Circuito de Jerez,spain
+Kyalami Racing Circuit,south-africa
+Las Vegas Street Circuit,united-states-of-america
+Long Beach,united-states-of-america
+Losail International Circuit,qatar
+Circuit de Nevers Magny-Cours,france
+Marina Bay Street Circuit,singapore
+Melbourne Grand Prix Circuit,australia
+Autódromo Hermanos Rodríguez,mexico
+Miami International Autodrome,united-states-of-america
+Circuit de Monaco,monaco
+Circuito de Monsanto,portugal
+Circuit Mont-Tremblant,canada
+Circuito de Montjuïc,spain
+Circuit Gilles Villeneuve,canada
+Autodromo Nazionale Monza,italy
+Canadian Tire Motorsport Park,canada
+Autodromo Internazionale del Mugello,italy
+Nivelles-Baulers,belgium
+Nürburgring,germany
+Circuit Paul Ricard,france
+Pedralbes Circuit,spain
+Pescara Circuit,italy
+Phoenix Street Circuit,united-states-of-america
+Algarve International Circuit,portugal
+Circuito da Boavista,portugal
+Reims-Gueux,france
+Riverside International Raceway,united-states-of-america
+Rouen-Les-Essarts,france
+Sebring International Raceway,united-states-of-america
+Sepang International Circuit,malaysia
+Shanghai International Circuit,china
+Silverstone Circuit,united-kingdom
+Sochi Autodrom,russia
+Circuit de Spa-Francorchamps,belgium
+Red Bull Ring,austria
+Suzuka Circuit,japan
+Valencia Street Circuit,spain
+Watkins Glen International,united-states-of-america
+Yas Marina Circuit,united-arab-emirates
+Korea International Circuit,south-korea
+Circuit Park Zandvoort,netherlands
+Zeltweg,austria
+Circuit Zolder,belgium

@@ -1,0 +1,183 @@
+Adams,united-states-of-america
+Alex von Falkenhausen Motorenbau,germany
+Automobiles Gonfaronnaises Sportives,france
+Alfa Romeo Racing,italy
+Alfa Special,south-africa
+Scuderia AlphaTauri,italy
+Alpine F1 Team,france
+Alta Car and Engineering Company,united-kingdom
+Chris Amon Racing,new-zealand
+Andrea Moda Formula,italy
+Apollon,switzerland
+Arrows Grand Prix International,united-kingdom
+Scuderia Arzani-Volpini,italy
+Aston Butterworth,united-kingdom
+Aston Martin,united-kingdom
+ATS Wheels,germany
+Automobili Turismo e Sport,italy
+Balsa,germany
+British American Racing,united-kingdom
+Behra-Porsche,germany
+Bellasi,italy
+Benetton Formula,italy
+BMW Sauber F1 Team,germany
+BMW,germany
+Boro,netherlands
+Motor Racing Developments,united-kingdom
+Brawn GP Formula One Team,united-kingdom
+British Racing Motors,united-kingdom
+Bromme,united-states-of-america
+British Racing Partnership,united-kingdom
+Bugatti,france
+Caterham F1 Team,malaysia
+Christensen,united-states-of-america
+Cisitalia,italy
+Scuderia Coloni,italy
+Connaught Engineering,united-kingdom
+Connew Racing Team,united-kingdom
+Cooper Car Company,united-kingdom
+Dallara Automobili,italy
+De Tomaso Modena,italy
+Deidt,united-states-of-america
+Del Roy,united-states-of-america
+Derrington-Francis Racing Team,united-kingdom
+Dunn,united-states-of-america
+All American Racers,united-states-of-america
+Team Eifelland Caravans,germany
+Elder,united-states-of-america
+Emeryson Cars,united-kingdom
+Eisenacher Motorenwerk,germany
+Ecurie National Belge,belgium
+Ensign Racing,united-kingdom
+Epperly,united-states-of-america
+English Racing Automobiles,united-kingdom
+EuroBrun Racing,italy
+Ewing,united-states-of-america
+Harry Ferguson Research,united-kingdom
+Scuderia Ferrari,italy
+FIRST Racing,italy
+Fittipaldi Automotive,brazil
+Fondmetal,italy
+Footwork Arrows,united-kingdom
+Force India F1 Team,india
+Forti Corse,italy
+Frank Williams Racing Cars,united-kingdom
+Frazer-Nash,united-kingdom
+Fry Racing Team,united-kingdom
+Gilby Engineering,united-kingdom
+Gordini,france
+Greifzu,germany
+Haas F1 Team,united-states-of-america
+Hall,united-states-of-america
+Heck,germany
+Hesketh Racing,united-kingdom
+Embassy Racing With Graham Hill,united-kingdom
+Honda Racing F1 Team,japan
+Hispania Racing Team,spain
+Hersham and Walton Motors,united-kingdom
+Iso-Marlboro,united-kingdom
+Jaguar Racing F1 Team,united-kingdom
+JBW Cars,united-kingdom
+Jordan Grand Prix,ireland
+Kauhsen,germany
+Kick Sauber F1 Team,germany
+Klenk,germany
+Kojima Engineering,japan
+Krakau,germany
+Kurtis,united-states-of-america
+Kuzma,united-states-of-america
+Lancia,italy
+Langley,united-states-of-america
+Larrousse F1,france
+LDS,south-africa
+LEC Refrigeration Racing,united-kingdom
+Lesovsky,united-states-of-america
+Leyton House Racing,united-kingdom
+Life Racing Engines,italy
+Equipe Ligier,france
+Lola Cars,united-kingdom
+Lotus F1 Team,united-kingdom
+Lotus Racing,malaysia
+Team Lotus,united-kingdom
+Lyncar,united-kingdom
+Maki Engineering,japan
+Manor Racing,united-kingdom
+March Engineering,united-kingdom
+Marchese,united-states-of-america
+Automobiles Martini,france
+Marussia F1 Team,united-kingdom
+Maserati,italy
+Equipe Matra Sports,france
+McGuire,australia
+McLaren Racing,united-kingdom
+Mercedes AMG F1,germany
+Team Merzario,italy
+Meskowski,united-states-of-america
+Midland F1 Racing,russia
+Minardi F1 Team,italy
+Modena Team,italy
+Moore,united-states-of-america
+Nacke,germany
+Nichels,united-states-of-america
+Olson,united-states-of-america
+Onyx Grand Prix,united-kingdom
+Officine Specializzate Costruzione Automobili,italy
+Osella Squadra Corse,italy
+Pacific Racing,united-kingdom
+Pankratz,united-states-of-america
+Vel's Parnelli Jones Racing,united-states-of-america
+Pawl,united-states-of-america
+Team Penske,united-states-of-america
+Phillips,united-states-of-america
+Politoys,united-kingdom
+Porsche,germany
+Prost Grand Prix,france
+Protos,united-kingdom
+Racing Point F1 Team,united-kingdom
+Rae,united-states-of-america
+RAM Racing,united-kingdom
+Racing Bulls,italy
+Team Rebaque,mexico
+Red Bull Racing,austria
+Renault Sport Formula One Team,france
+Rial Racing,germany
+Sauber F1 Team,switzerland
+Scarab,united-states-of-america
+Schroeder,united-states-of-america
+Scirocco-Powell,united-kingdom
+Shadow Racing Cars,united-kingdom
+Shannon Racing Cars,united-kingdom
+Sherman,united-states-of-america
+Simca-Gordini,france
+Simtek,united-kingdom
+Snowberger,united-states-of-america
+Spirit Racing,united-kingdom
+Spyker F1 Team,netherlands
+Stebro,canada
+Stevens,united-states-of-america
+Stewart Grand Prix,united-kingdom
+Super Aguri F1 Team,japan
+Surtees Racing Organisation,united-kingdom
+Sutton,united-states-of-america
+Talbot-Lago,france
+Studio Tecnica Meccanica,united-states-of-america
+Tecno Racing Team,italy
+Theodore Racing,hong-kong
+Token Racing,united-kingdom
+Toleman Motorsport,united-kingdom
+Scuderia Toro Rosso,italy
+Toyota Racing,japan
+Trevis,united-states-of-america
+Trojan-Tauranac Racing,united-kingdom
+Turner,united-states-of-america
+Tyrrell Racing,united-kingdom
+Vanwall,united-kingdom
+Venturi Automobiles,france
+Veritas,germany
+Virgin Racing,united-kingdom
+Watson,united-states-of-america
+Wetteroth,united-states-of-america
+Williams Grand Prix Engineering,united-kingdom
+Wolf-Williams Racing,united-kingdom
+Walter Wolf Racing,canada
+Zakspeed Racing,germany
