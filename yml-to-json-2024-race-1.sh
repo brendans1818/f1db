@@ -1,0 +1,1 @@
+yq -o=json eval src/data/seasons/2024/races/01-bahrain/pit-stops.yml >> src/data/seasons/2024/races/01-bahrain/pit-stops.json
